@@ -8,7 +8,8 @@ categories: Java DesignPattern
 
 # Singleton Pattern에 대하여
 #### 현업에서, 협업 유틸등을 만들거나, 할때에 유용하게 쓰인다. 
-#### 단 하나만 존재하는 인스턴스를 사용하는 패턴을 우리는,  -Singleton pattern 이라고 부른다.
+#### 단 하나만 존재하는 인스턴스를 사용하는 패턴을 
+#### 우리는 Singleton pattern 이라고 부른다.
 
 생성자는 private 으로, static으로 유일한 객체를 생성 해준다.<br>
 외부에서 유일한 객체를 참조할 수 있는 public static get() 메서드를 구현 해준다.<br>
