@@ -1,7 +1,9 @@
 ---
 title: "[Java]디자인패턴-Singleton pattern"
 date: 2020-06-28 18:44:00 
+categories: Java DesignPattern
 ---
+
 
 
 # **_Singleton Pattern에 대하여
